@@ -1,2 +1,7 @@
 streamlit==1.22.0
 yfinance==0.2.18
+streamlit-extras
+streamlit-pretty-notification-box
+filetype
+pyperclip
+toml
