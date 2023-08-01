@@ -1,5 +1,5 @@
 streamlit==1.22.0
-yfinance==0.2.18
+yfinance==0.2.26
 streamlit-extras
 streamlit-pretty-notification-box
 filetype
